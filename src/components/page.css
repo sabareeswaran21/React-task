@@ -1,0 +1,11 @@
+.page{
+    background-image: url('img2.webp');
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.word{
+    font-size:100px ;
+    font-weight: 500;
+}
